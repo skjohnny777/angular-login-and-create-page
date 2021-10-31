@@ -1,0 +1,67 @@
+.example-container {
+  width: 100%;
+  height: 100vh;
+
+
+}
+.btn-primary {
+  background: black;
+  position: relative;
+  top: -327 px !important;
+  left: 398 px !important;
+  width: 96 px !important;
+  height: 45 px !important;
+  color: greenyellow;
+  border: none;
+}
+
+.example-sidenav-content {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: space-between;
+  border: 2 px solid red;
+  border: 2px solid red;background-image: url(src/assets/images/1209562.jpg);
+  background-position: center;
+  flex-direction: row;
+  align-content: flex-start;
+  flex-wrap: wrap;
+  padding: 15px;
+}
+
+.example-sidenav {
+  padding: 20px;
+  border: 2px solid red;
+  background-color: black;
+
+}
+
+.example-sidenav-content
+.btn-primary {
+  border: 2px solid red;
+  width: 117 px;
+  height: 49 px;
+  margin: 15 px !important;
+  font-size: 22px;
+}
+
+ .menu li a 
+{
+  color: #fff;
+  font-size: 25px;
+margin-left: 200px;
+  font-weight: 550;
+  margin-left: 25px;
+  
+  transition: color 0.3s ease;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.menu li{
+    margin-bottom: 50px;
+
+    list-style-type: none;
+    text-decoration: none;
+
+}
